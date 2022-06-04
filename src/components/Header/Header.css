@@ -1,9 +1,4 @@
-* {
-    box-sizing: border-box;
-    font-family: sans-serif;
-  }
-
-  .upperHeaderContainer {
+.upperHeaderContainer {
     display: flex;
     /* text-align: center; */
     background-color: #edf1f7;

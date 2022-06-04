@@ -1,0 +1,6 @@
+.cardList {
+    display: flex;
+    padding: 2rem 30rem;
+    justify-content: space-between;
+    width: 100%;
+}
